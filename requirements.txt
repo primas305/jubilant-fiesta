@@ -5,6 +5,7 @@ asyncio
 attrdict
 beautifulsoup4
 bencoding
+bencode.py
 cfscrape
 feedparser
 flask
